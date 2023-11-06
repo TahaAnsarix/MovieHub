@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+
+a:visited{
+    color: beige;
+}

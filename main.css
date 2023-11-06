@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    overflow-x: hidden;
+}
+
+button{
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+
+a:hover{
+    color: white;
+}
